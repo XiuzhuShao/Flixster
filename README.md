@@ -20,10 +20,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Portrait
+**Portrait:**                                       
 <img src="./flixster_portrait_demo.gif" alt="My Project GIF portrait" width="403" height="861">
-
-Landscape
+            
+**Landscape:**            
 <img src="./flixster_landscape_demo.gif" alt="My Project GIF landscape" width="859" height="403">
 
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
